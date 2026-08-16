@@ -1,0 +1,14 @@
+# robots.txt for MOTTO Automotive
+User-agent: *
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://motto.ae/sitemap.xml

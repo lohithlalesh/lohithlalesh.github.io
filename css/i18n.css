@@ -1,0 +1,226 @@
+/* Site-wide English and Arabic language navigation */
+.nav__language {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 70px;
+  min-height: 38px;
+  padding: 8px 13px;
+  border: 1px solid rgba(10,29,58,.3);
+  border-radius: 999px;
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: .04em;
+  line-height: 1;
+  text-decoration: none;
+  flex-shrink: 0;
+  transition: color .2s ease, border-color .2s ease, background .2s ease;
+}
+
+.nav__brand,
+.nav__cta {
+  flex-shrink: 0;
+}
+
+.nav__cta > span:first-child {
+  white-space: nowrap;
+}
+
+.nav__language:hover,
+.nav__language:focus-visible {
+  border-color: var(--premium-gold);
+  background: var(--premium-gold);
+  color: #07172c;
+}
+
+.nav.is-scrolled .nav__language,
+.blog-page .nav__language {
+  border-color: rgba(255,255,255,.4);
+  color: #fff;
+}
+
+.nav.is-menu-open .nav__language {
+  opacity: 0;
+  pointer-events: none;
+}
+
+html[lang^='ar'] body {
+  font-family: 'Noto Sans Arabic', 'Manrope', sans-serif;
+}
+
+html[lang^='ar'] body *:not(.nav__wordmark):not(.footer__wordmark) {
+  font-family: 'Noto Sans Arabic', 'Manrope', sans-serif;
+  letter-spacing: 0;
+}
+
+html[lang^='ar'] .nav__wordmark,
+html[lang^='ar'] .footer__wordmark {
+  direction: rtl;
+  font-family: 'Noto Kufi Arabic', 'Noto Sans Arabic', sans-serif;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 1.2;
+  text-transform: none;
+}
+
+html[lang^='ar'] .nav__wordmark {
+  font-size: 28px;
+}
+
+html[lang^='ar'] .footer__wordmark {
+  font-size: 21px;
+}
+
+.hero__logo-ar {
+  display: grid;
+  grid-template-columns: minmax(220px, .86fr) minmax(0, 1.5fr);
+  gap: clamp(18px, 3vw, 34px);
+  align-items: center;
+  width: 100%;
+  max-width: 820px;
+  padding: 16px 0;
+  color: #0a1d3a;
+  direction: ltr;
+  line-height: 1;
+  animation: heroLogoFade 1.4s var(--ease-out) .15s both;
+}
+
+.hero__logo-ar-mark {
+  display: block;
+  width: 100%;
+  max-width: 270px;
+  height: auto;
+  object-fit: contain;
+}
+
+.hero__logo-ar-copy {
+  min-width: 0;
+  direction: rtl;
+  text-align: center;
+}
+
+html[lang^='ar'] .hero__logo-ar-copy strong,
+html[lang^='ar'] .hero__logo-ar-copy span,
+html[lang^='ar'] .hero__logo-ar-copy small {
+  display: block;
+  font-family: 'Noto Kufi Arabic', 'Noto Sans Arabic', sans-serif;
+}
+
+html[lang^='ar'] .hero__logo-ar-copy strong {
+  font-size: clamp(130px, 20vw, 220px);
+  font-weight: 400;
+  line-height: 1.05;
+}
+
+html[lang^='ar'] .hero__logo-ar-copy span {
+  margin-top: 5px;
+  color: #4a5360;
+  font-size: clamp(36px, 5vw, 54px);
+  font-weight: 300;
+  line-height: 1.2;
+}
+
+html[lang^='ar'] .hero__logo-ar-copy small {
+  margin-top: 14px;
+  padding-top: 10px;
+  border-top: 1px solid #737b84;
+  color: #59616b;
+  font-family: 'Noto Sans Arabic', sans-serif;
+  font-size: clamp(13px, 1.6vw, 19px);
+  font-weight: 500;
+  line-height: 1.35;
+}
+
+html[lang^='ar'] .founder-brand-lockup__copy strong,
+html[lang^='ar'] .founder-brand-lockup__copy span {
+  font-family: 'Noto Kufi Arabic', 'Noto Sans Arabic', sans-serif;
+}
+
+html[lang^='ar'] .founder-brand-lockup__copy small {
+  font-family: 'Noto Sans Arabic', sans-serif;
+}
+
+/* Keep duplicated logo tracks on the same physical axis as the English site.
+   Without this isolation, RTL flex positioning moves the complete track out of
+   the viewport instead of looping its duplicated half. */
+html[dir='rtl'] .brands-marquee__scroll,
+html[dir='rtl'] .brands-marquee__track,
+html[dir='rtl'] .clients__marquee,
+html[dir='rtl'] .clients__track {
+  direction: ltr;
+}
+
+html[dir='rtl'] .btn-arrow,
+html[dir='rtl'] .link-arrow {
+  transform: scaleX(-1);
+}
+
+html[dir='rtl'] .article__body ul,
+html[dir='rtl'] .article__body ol {
+  padding-right: 22px;
+  padding-left: 0;
+}
+
+html[dir='rtl'] .article__body blockquote {
+  border-right: 3px solid var(--b-gold);
+  border-left: 0;
+  border-radius: 8px 0 0 8px;
+}
+
+html[dir='rtl'] .crumbs span {
+  display: inline-block;
+  transform: scaleX(-1);
+}
+
+@media (max-width: 1180px) and (min-width: 1000px) {
+  .nav__inner {
+    gap: 14px;
+  }
+
+  .nav__menu {
+    gap: 19px;
+  }
+
+  .nav__cta {
+    padding-right: 18px;
+    padding-left: 18px;
+  }
+}
+
+@media (max-width: 420px) {
+  .nav__inner {
+    gap: 12px;
+  }
+
+  .nav__brand {
+    gap: 10px;
+  }
+
+  .nav__language {
+    min-width: 58px;
+    min-height: 34px;
+    padding: 7px 10px;
+    font-size: 11px;
+  }
+
+  .hero__logo-ar {
+    grid-template-columns: 112px minmax(0, 1fr);
+    gap: 14px;
+  }
+
+  html[lang^='ar'] .hero__logo-ar-copy strong {
+    font-size: 88px;
+  }
+
+  html[lang^='ar'] .hero__logo-ar-copy span {
+    font-size: 25px;
+  }
+
+  html[lang^='ar'] .hero__logo-ar-copy small {
+    margin-top: 9px;
+    padding-top: 7px;
+    font-size: 9px;
+  }
+}
