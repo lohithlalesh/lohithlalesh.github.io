@@ -1,12 +1,22 @@
-# MOTTO Automotive Website v19
+# MOTTO Automotive Website v20
 
 Deployment package prepared on 17 August 2026.
+
+## Product photography upgrade in v20
+
+- Replaced all six line-art product diagrams with premium photographic visuals based on MOTTO's actual product-section assets.
+- Added dedicated visuals for number plate holders, 3D badges, dealer keychains, car sunshades, showroom plates and the white-label range.
+- Removed callout lines, numbers and infographic styling from the product cards and product-page hero areas.
+- Converted every new 1536 by 1024 pixel image to AVIF and added responsive 768 pixel variants for faster delivery while keeping detailed product imagery.
+- Self-hosted the product-page display font to eliminate layout shift and reduce dependence on third-party font delivery.
+- Updated English and Arabic alternative text, Product schema image references, image sitemap entries, dimensions and preloads.
+- A local Lighthouse 13 mobile audit of the number plate holder page scored 99 Performance and 100 for Accessibility, Best Practices and SEO.
 
 ## Product landing pages and About refinements in v19
 
 - Added dedicated English and Arabic product indexes at `/products/` and `/ar/products/`.
 - Added indexable landing pages for number plate holders, 3D automotive badges, dealer keychains, custom car sunshades, showroom plates and white-label automotive accessories.
-- Added lightweight product diagrams, descriptive alternative text, explicit image dimensions, responsive sizing and page-specific WhatsApp enquiries.
+- Added product visuals, descriptive alternative text, explicit image dimensions, responsive sizing and page-specific WhatsApp enquiries.
 - Added canonical URLs, reciprocal language alternates, breadcrumbs, FAQs and page-level structured data for both languages.
 - Added visible manufacturing and editorial notes based on MOTTO Automotive's first-party experience.
 - Updated homepage cards, navigation, footer links, sitemap, `llms.txt` and `llms-full.txt` to point to the new landing pages.

@@ -1,4 +1,28 @@
 /* PRODUCT_CORE_START: lean shared shell for product landing pages */
+@font-face {
+  font-family: 'Saira Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url('/assets/fonts/saira-condensed-400-latin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Saira Condensed';
+  font-style: normal;
+  font-weight: 500;
+  font-display: block;
+  src: url('/assets/fonts/saira-condensed-500-latin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Saira Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-display: block;
+  src: url('/assets/fonts/saira-condensed-600-latin.woff2') format('woff2');
+}
+
 :root {
   --arctic-white: #f5f6f7;
   --ink: #0a1d3a;
@@ -667,7 +691,7 @@ body.product-page {
 
 .products-index-card__image {
   overflow: hidden;
-  aspect-ratio: 5 / 3;
+  aspect-ratio: 3 / 2;
   background: var(--p-navy);
 }
 
