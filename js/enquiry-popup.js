@@ -61,7 +61,6 @@
       'ميداليات المفاتيح المخصصة',
       'مظلات السيارات الشمسية المخصصة',
       'لوحات صالات العرض',
-      'التصنيع حسب الطلب',
       'متطلبات أخرى'
     ]
   } : {
@@ -82,10 +81,9 @@
     products: [
       'Number Plate Holders',
       '3D Emblems and Badges',
-      'Bespoke Keychains',
+      'Custom Keychains',
       'Custom Sunshades',
       'Showroom Plates',
-      'Bespoke Manufacturing',
       'Other Requirement'
     ]
   };
