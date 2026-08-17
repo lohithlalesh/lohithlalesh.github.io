@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 840" role="img" aria-labelledby="title desc">
+<title id="title">Custom showroom display plate construction</title><desc id="desc">Diagram showing printed face, substrate, protective finish and display mounting.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06152b"/><stop offset="1" stop-color="#123965"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ead59f"/><stop offset="1" stop-color="#b5904f"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="20" stdDeviation="22" flood-color="#020a16" flood-opacity=".45"/></filter>
+  <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M56 0H0V56" fill="none" stroke="#9bb3d1" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1400" height="840" rx="44" fill="url(#bg)"/><rect width="1400" height="840" rx="44" fill="url(#grid)"/>
+<circle cx="1210" cy="116" r="160" fill="#d7b66f" opacity=".08"/><circle cx="150" cy="720" r="220" fill="#2677a8" opacity=".10"/>
+
+<g filter="url(#shadow)"><path d="M230 620L350 690H1050L1170 620Z" fill="#07152a" stroke="#d4b16a" stroke-width="8"/><rect x="260" y="210" width="880" height="420" rx="36" fill="#f7fbff" stroke="#d5deeb" stroke-width="12"/>
+<rect x="310" y="262" width="780" height="316" rx="18" fill="#0b2344"/><path d="M390 360H1010M390 430H850" stroke="#d8b86f" stroke-width="25" stroke-linecap="round"/><circle cx="950" cy="465" r="76" fill="none" stroke="#ecf3fb" stroke-width="18"/><path d="M950 418L990 486H910Z" fill="#d8b86f"/></g>
+<path d="M585 690L550 785H850L815 690" fill="#d6e0ed" opacity=".7"/>
+<g fill="none" stroke="#d8b86f" stroke-width="3" stroke-dasharray="8 10"><path d="M270 220L130 100"/><path d="M1120 250L1270 140"/><path d="M260 580L110 680"/><path d="M1040 650L1190 760"/></g>
+<circle cx="95" cy="72" r="33" fill="url(#gold)"/><text x="95" y="80" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#081a34">01</text><circle cx="1300" cy="118" r="33" fill="url(#gold)"/><text x="1300" y="126" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#081a34">02</text><circle cx="78" cy="700" r="33" fill="url(#gold)"/><text x="78" y="708" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#081a34">03</text><circle cx="1230" cy="785" r="33" fill="url(#gold)"/><text x="1230" y="793" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#081a34">04</text>
+
+</svg>

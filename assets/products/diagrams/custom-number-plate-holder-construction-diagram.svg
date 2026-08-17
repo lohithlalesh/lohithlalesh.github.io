@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 840" role="img" aria-labelledby="title desc">
+<title id="title">Custom number plate holder construction</title><desc id="desc">Exploded visual of frame geometry, official plate clearance, branding zone and installation fit.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06152b"/><stop offset="1" stop-color="#123965"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ead59f"/><stop offset="1" stop-color="#b5904f"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="20" stdDeviation="22" flood-color="#020a16" flood-opacity=".45"/></filter>
+  <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M56 0H0V56" fill="none" stroke="#9bb3d1" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1400" height="840" rx="44" fill="url(#bg)"/><rect width="1400" height="840" rx="44" fill="url(#grid)"/>
+<circle cx="1210" cy="116" r="160" fill="#d7b66f" opacity=".08"/><circle cx="150" cy="720" r="220" fill="#2677a8" opacity=".10"/>
+
+<g filter="url(#shadow)"><path d="M160 242Q235 145 400 130H990Q1150 148 1238 244L1280 540Q1289 632 1190 658H210Q112 632 120 540Z" fill="#eaf0f8" opacity=".96"/>
+<path d="M270 260H1130" stroke="#0b2344" stroke-width="26" stroke-linecap="round"/><path d="M260 535H1140" stroke="#0b2344" stroke-width="38" stroke-linecap="round"/>
+<rect x="356" y="338" width="688" height="188" rx="20" fill="#101d2e"/><rect x="384" y="363" width="632" height="138" rx="12" fill="#f8fbff" stroke="#c7d4e4" stroke-width="8"/>
+<rect x="430" y="409" width="540" height="42" rx="12" fill="#dce5ef"/><path d="M390 497H1010" stroke="#c5a261" stroke-width="16"/>
+</g>
+<g fill="none" stroke="#d8b86f" stroke-width="3" stroke-dasharray="8 10"><path d="M332 427H190"/><path d="M700 320V188"/><path d="M1057 430H1214"/><path d="M1020 548L1160 690"/></g>
+<circle cx="154" cy="427" r="33" fill="url(#gold)"/><text x="154" y="435" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#081a34">01</text><circle cx="700" cy="150" r="33" fill="url(#gold)"/><text x="700" y="158" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#081a34">02</text><circle cx="1250" cy="430" r="33" fill="url(#gold)"/><text x="1250" y="438" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#081a34">03</text><circle cx="1190" cy="720" r="33" fill="url(#gold)"/><text x="1190" y="728" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#081a34">04</text>
+
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 840" role="img" aria-labelledby="title desc">
+<title id="title">Branded dealer keychain components</title><desc id="desc">Diagram showing key ring, hardware, branded leather tab and presentation box.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06152b"/><stop offset="1" stop-color="#123965"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ead59f"/><stop offset="1" stop-color="#b5904f"/></linearGradient>
+  <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="20" stdDeviation="22" flood-color="#020a16" flood-opacity=".45"/></filter>
+  <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse"><path d="M56 0H0V56" fill="none" stroke="#9bb3d1" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1400" height="840" rx="44" fill="url(#bg)"/><rect width="1400" height="840" rx="44" fill="url(#grid)"/>
+<circle cx="1210" cy="116" r="160" fill="#d7b66f" opacity=".08"/><circle cx="150" cy="720" r="220" fill="#2677a8" opacity=".10"/>
+
+<g filter="url(#shadow)">
+<circle cx="360" cy="270" r="128" fill="none" stroke="#e7edf6" stroke-width="42"/><circle cx="360" cy="270" r="77" fill="none" stroke="#0b2344" stroke-width="22"/>
+<rect x="320" y="360" width="80" height="120" rx="34" fill="url(#gold)"/>
+<path d="M286 442Q360 395 434 442L510 684Q360 765 210 684Z" fill="#142f53" stroke="#d9e3f1" stroke-width="8"/>
+<path d="M322 493Q360 468 398 493L430 635Q360 674 290 635Z" fill="#d8b86f" opacity=".75"/>
+<circle cx="360" cy="566" r="52" fill="#f4f8fd"/><path d="M360 526L395 586H325Z" fill="#0a1d3a"/>
+</g>
+<g filter="url(#shadow)"><rect x="780" y="230" width="390" height="430" rx="42" fill="#f8fbff"/><rect x="825" y="275" width="300" height="340" rx="24" fill="#0c2546"/><path d="M910 400Q975 352 1040 400V520Q975 574 910 520Z" fill="none" stroke="#d8b86f" stroke-width="18"/><circle cx="975" cy="356" r="47" fill="none" stroke="#e5edf7" stroke-width="14"/></g>
+<g fill="none" stroke="#d8b86f" stroke-width="3" stroke-dasharray="8 10"><path d="M250 200L130 110"/><path d="M480 420L650 310"/><path d="M740 620L610 740"/><path d="M1150 210L1260 110"/></g>
+<circle cx="100" cy="88" r="33" fill="url(#gold)"/><text x="100" y="96" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#081a34">01</text><circle cx="690" cy="286" r="33" fill="url(#gold)"/><text x="690" y="294" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#081a34">02</text><circle cx="580" cy="765" r="33" fill="url(#gold)"/><text x="580" y="773" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#081a34">03</text><circle cx="1290" cy="88" r="33" fill="url(#gold)"/><text x="1290" y="96" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#081a34">04</text>
+
+</svg>

@@ -4,11 +4,13 @@
 
 ## Core products
 
-- [Number plate holders](https://motto.ae/#plates): Custom dealer-branded accessory frames developed around confirmed UAE plate formats and vehicle applications.
-- [3D emblems and badges](https://motto.ae/#badges): Custom dimensional automotive branding with application-specific finishes and attachment systems.
-- [Branded keychains](https://motto.ae/#keychains): Dealer handover keychains, hardware and presentation packaging.
-- [Custom sunshades](https://motto.ae/#sunshades): Branded windscreen sunshades for dealer, fleet and campaign programmes.
-- [Showroom plates](https://motto.ae/#showcase): Non-registration display plates for showrooms, launches, photography and events.
+- [Number plate holders](https://motto.ae/products/number-plate-holders): Custom dealer-branded accessory frames developed around confirmed UAE plate formats and vehicle applications.
+- [3D emblems and badges](https://motto.ae/products/3d-automotive-badges): Custom dimensional automotive branding with application-specific finishes and attachment systems.
+- [Branded keychains](https://motto.ae/products/dealer-keychains): Dealer handover keychains, hardware and presentation packaging.
+- [Custom sunshades](https://motto.ae/products/custom-car-sunshades): Branded windscreen sunshades for dealer, fleet and campaign programmes.
+- [Showroom plates](https://motto.ae/products/showroom-plates): Non-registration display plates for showrooms, launches, photography and events.
+- [White-label automotive accessories](https://motto.ae/products/white-label-automotive-accessories): Coordinated product development, sampling, manufacturing, inspection, packaging and recurring supply under the customer's approved brand.
+- [All product categories](https://motto.ae/products/): Index of MOTTO Automotive product landing pages.
 
 ## Educational guides
 

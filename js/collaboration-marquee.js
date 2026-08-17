@@ -11,6 +11,29 @@
   var track = marquee.querySelector('.collaboration-track');
   if (!track || !track.firstElementChild) return;
 
+  var deferredFrames = track.querySelectorAll('iframe[data-src]');
+
+  function loadFrame(frame) {
+    if (!frame || !frame.dataset.src || frame.src) return;
+    frame.src = frame.dataset.src;
+    frame.removeAttribute('data-src');
+  }
+
+  if (window.location.protocol !== 'file:' && deferredFrames.length) {
+    if ('IntersectionObserver' in window) {
+      var frameObserver = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (!entry.isIntersecting) return;
+          loadFrame(entry.target);
+          frameObserver.unobserve(entry.target);
+        });
+      }, { root: marquee, rootMargin: '0px 720px' });
+      deferredFrames.forEach(function (frame) { frameObserver.observe(frame); });
+    } else {
+      deferredFrames.forEach(loadFrame);
+    }
+  }
+
   var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var speed = window.innerWidth < 700 ? 66 : 78;
   var offset = 0;

@@ -1,6 +1,33 @@
-# MOTTO Automotive Website v18
+# MOTTO Automotive Website v19
 
-Deployment package prepared on 16 August 2026.
+Deployment package prepared on 17 August 2026.
+
+## Product landing pages and About refinements in v19
+
+- Added dedicated English and Arabic product indexes at `/products/` and `/ar/products/`.
+- Added indexable landing pages for number plate holders, 3D automotive badges, dealer keychains, custom car sunshades, showroom plates and white-label automotive accessories.
+- Added lightweight product diagrams, descriptive alternative text, explicit image dimensions, responsive sizing and page-specific WhatsApp enquiries.
+- Added canonical URLs, reciprocal language alternates, breadcrumbs, FAQs and page-level structured data for both languages.
+- Added visible manufacturing and editorial notes based on MOTTO Automotive's first-party experience.
+- Updated homepage cards, navigation, footer links, sitemap, `llms.txt` and `llms-full.txt` to point to the new landing pages.
+- Updated the About page introduction to identify Pavle Rastovic as Managing Director.
+- Added a dedicated mobile crop for Pavle Rastovic's leadership image so his portrait and the Dubai skyline remain visible on narrow screens.
+- Removed the empty leading space from Partnerships in Motion and deferred offscreen LinkedIn embeds to reduce initial third-party work.
+- Added explicit dimensions and alternative text checks for every image used across all 40 HTML pages.
+- Replaced the shared navigation emblem with a 104 by 104 pixel AVIF asset, reducing that request from about 47 KB to about 6 KB.
+- Reduced product-page critical CSS, deferred non-critical popup and font styles, and enabled long-lived versioned CSS and JavaScript caching for Cloudflare Pages.
+- A local Lighthouse 12 mobile audit of the number plate holder page scored 96 Performance and 100 for Accessibility, Best Practices and SEO. Live results can vary by network, Cloudflare caching and third-party services.
+
+### New product URLs
+
+- `/products/number-plate-holders`
+- `/products/3d-automotive-badges`
+- `/products/dealer-keychains`
+- `/products/custom-car-sunshades`
+- `/products/showroom-plates`
+- `/products/white-label-automotive-accessories`
+
+Arabic equivalents use the same paths under `/ar/products/`.
 
 ## Signature product slideshow in v18
 
@@ -108,6 +135,9 @@ The legal articles distinguish official UAE registration plates from accessory h
 1. Keep the package structure unchanged. `index.html` must remain at the ZIP root.
 2. Upload the ZIP through Cloudflare Pages Direct Upload.
 3. Wait for the deployment to finish, then verify:
+   - `https://motto.ae/products/`
+   - `https://motto.ae/products/number-plate-holders`
+   - `https://motto.ae/ar/products/`
    - `https://motto.ae/blog/`
    - `https://motto.ae/blog/uae-number-plate-holder-sizes-fit-guide`
    - `https://motto.ae/blog/are-number-plate-frames-legal-uae`
@@ -117,7 +147,7 @@ The legal articles distinguish official UAE registration plates from accessory h
    - `https://motto.ae/llms.txt`
    - `https://motto.ae/llms-full.txt`
 4. In Google Search Console, resubmit `https://motto.ae/sitemap.xml` after the new deployment is live.
-5. Use URL Inspection for the blog index and the three priority article URLs above. Test the live URL, then request indexing.
+5. Use URL Inspection for the product index, the six English product pages, the blog index and the three priority article URLs above. Test the live URL, then request indexing.
 
 ## Important publishing note
 

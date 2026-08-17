@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://motto.ae/</loc>
-    <lastmod>2026-08-16</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/" />
@@ -15,7 +15,7 @@
   </url>
   <url>
     <loc>https://motto.ae/ar/</loc>
-    <lastmod>2026-08-16</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/" />
@@ -24,7 +24,7 @@
   </url>
   <url>
     <loc>https://motto.ae/blog/</loc>
-    <lastmod>2026-08-16</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/blog/" />
@@ -37,7 +37,7 @@
   </url>
   <url>
     <loc>https://motto.ae/ar/blog/</loc>
-    <lastmod>2026-08-16</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/blog/" />
@@ -46,7 +46,7 @@
   </url>
   <url>
     <loc>https://motto.ae/blog/about</loc>
-    <lastmod>2026-08-16</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/blog/about" />
@@ -59,7 +59,7 @@
   </url>
   <url>
     <loc>https://motto.ae/ar/blog/about</loc>
-    <lastmod>2026-08-16</lastmod>
+    <lastmod>2026-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
     <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/blog/about" />
@@ -288,4 +288,160 @@
       <image:caption>One procurement framework can control plate holders, badges, keychains, sunshades and showroom accessories without treating every item as a generic giveaway.</image:caption>
     </image:image>
   </url>
+  <!-- PRODUCT_LANDING_PAGES_START -->
+  <url>
+    <loc>https://motto.ae/products/</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/products/" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://motto.ae/ar/products/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://motto.ae/products/" />
+    <image:image>
+      <image:loc>https://motto.ae/assets/og-image.jpg</image:loc>
+      <image:title>MOTTO Automotive custom automotive product collection</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://motto.ae/ar/products/</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/products/" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://motto.ae/ar/products/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://motto.ae/products/" />
+  </url>
+  <url>
+    <loc>https://motto.ae/products/number-plate-holders</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/products/number-plate-holders" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://motto.ae/ar/products/number-plate-holders" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://motto.ae/products/number-plate-holders" />
+    <image:image>
+      <image:loc>https://motto.ae/assets/products/plates/agmc-bmw-number-plate-holder.webp</image:loc>
+      <image:title>Custom Number Plate Holders</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://motto.ae/ar/products/number-plate-holders</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/products/number-plate-holders" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://motto.ae/ar/products/number-plate-holders" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://motto.ae/products/number-plate-holders" />
+  </url>
+  <url>
+    <loc>https://motto.ae/products/3d-automotive-badges</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/products/3d-automotive-badges" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://motto.ae/ar/products/3d-automotive-badges" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://motto.ae/products/3d-automotive-badges" />
+    <image:image>
+      <image:loc>https://motto.ae/assets/products/badges/emirates-motor-company-3d-car-badge.jpg</image:loc>
+      <image:title>Custom 3D Automotive Badges and Emblems</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://motto.ae/ar/products/3d-automotive-badges</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/products/3d-automotive-badges" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://motto.ae/ar/products/3d-automotive-badges" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://motto.ae/products/3d-automotive-badges" />
+  </url>
+  <url>
+    <loc>https://motto.ae/products/dealer-keychains</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/products/dealer-keychains" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://motto.ae/ar/products/dealer-keychains" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://motto.ae/products/dealer-keychains" />
+    <image:image>
+      <image:loc>https://motto.ae/assets/products/keychains/awr-leather-car-keychain-boxed.webp</image:loc>
+      <image:title>Branded Dealer Keychains</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://motto.ae/ar/products/dealer-keychains</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/products/dealer-keychains" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://motto.ae/ar/products/dealer-keychains" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://motto.ae/products/dealer-keychains" />
+  </url>
+  <url>
+    <loc>https://motto.ae/products/custom-car-sunshades</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/products/custom-car-sunshades" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://motto.ae/ar/products/custom-car-sunshades" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://motto.ae/products/custom-car-sunshades" />
+    <image:image>
+      <image:loc>https://motto.ae/assets/products/sunshades/mahy-khoory-car-sunshade.jpg</image:loc>
+      <image:title>Custom Car Sunshades</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://motto.ae/ar/products/custom-car-sunshades</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/products/custom-car-sunshades" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://motto.ae/ar/products/custom-car-sunshades" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://motto.ae/products/custom-car-sunshades" />
+  </url>
+  <url>
+    <loc>https://motto.ae/products/showroom-plates</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/products/showroom-plates" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://motto.ae/ar/products/showroom-plates" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://motto.ae/products/showroom-plates" />
+    <image:image>
+      <image:loc>https://motto.ae/assets/products/showroom/premier-supercars-showroom-plate.png</image:loc>
+      <image:title>Custom Showroom Display Plates</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://motto.ae/ar/products/showroom-plates</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/products/showroom-plates" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://motto.ae/ar/products/showroom-plates" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://motto.ae/products/showroom-plates" />
+  </url>
+  <url>
+    <loc>https://motto.ae/products/white-label-automotive-accessories</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/products/white-label-automotive-accessories" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://motto.ae/ar/products/white-label-automotive-accessories" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://motto.ae/products/white-label-automotive-accessories" />
+    <image:image>
+      <image:loc>https://motto.ae/assets/hero/motto-automotive-manufacturing-facility-uae.webp</image:loc>
+      <image:title>White-Label Automotive Accessories</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://motto.ae/ar/products/white-label-automotive-accessories</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/products/white-label-automotive-accessories" />
+    <xhtml:link rel="alternate" hreflang="ar-AE" href="https://motto.ae/ar/products/white-label-automotive-accessories" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://motto.ae/products/white-label-automotive-accessories" />
+  </url>
+  <!-- PRODUCT_LANDING_PAGES_END -->
 </urlset>

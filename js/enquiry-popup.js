@@ -109,7 +109,7 @@
       '<button class="enquiry-popup__close" type="button" aria-label="' + escapeHtml(copy.close) + '">×</button>',
       '<div class="enquiry-popup__inner">',
       '<div class="enquiry-popup__brand">',
-      '<img src="/assets/logo/motto-emblem-nav-v2.png" width="208" height="208" alt="" aria-hidden="true">',
+      '<img src="/assets/logo/motto-emblem-nav-104.avif" width="208" height="208" alt="" aria-hidden="true">',
       '<div><strong>' + escapeHtml(copy.brand) + '</strong><span>' + escapeHtml(copy.brandSub) + '</span></div>',
       '</div>',
       '<p class="enquiry-popup__eyebrow">' + escapeHtml(copy.eyebrow) + '</p>',
