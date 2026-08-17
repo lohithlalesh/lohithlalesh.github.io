@@ -1,47 +1,96 @@
 # MOTTO Automotive
 
-> MOTTO Automotive is a UAE manufacturer of dealer-branded number plate holders and automotive accessories. The company supports automotive dealers, fleets and mobility partners with in-house development, production, finishing, inspection and packaging.
+> MOTTO Automotive is a UAE manufacturer of dealer-branded number plate holders and automotive accessories. The company supports dealers, fleets and mobility partners with product development, manufacturing, finishing, inspection, packaging and recurring supply.
 
-## Core products
+## Canonical pages
 
-- [Number plate holders](https://motto.ae/products/number-plate-holders): Custom dealer-branded accessory frames developed around confirmed UAE plate formats and vehicle applications.
-- [3D emblems and badges](https://motto.ae/products/3d-automotive-badges): Custom dimensional automotive branding with application-specific finishes and attachment systems.
-- [Branded keychains](https://motto.ae/products/dealer-keychains): Dealer handover keychains, hardware and presentation packaging.
-- [Custom sunshades](https://motto.ae/products/custom-car-sunshades): Branded windscreen sunshades for dealer, fleet and campaign programmes.
-- [Showroom plates](https://motto.ae/products/showroom-plates): Non-registration display plates for showrooms, launches, photography and events.
-- [White-label automotive accessories](https://motto.ae/products/white-label-automotive-accessories): Coordinated product development, sampling, manufacturing, inspection, packaging and recurring supply under the customer's approved brand.
-- [All product categories](https://motto.ae/products/): Index of MOTTO Automotive product landing pages.
+- [Home](https://motto.ae/)
+- [Products](https://motto.ae/products/)
+- [Technical library](https://motto.ae/blog/): 45 English guides with complete Arabic counterparts.
+- [Arabic website](https://motto.ae/ar/)
+- [Company story and editorial context](https://motto.ae/blog/about)
 
-## Educational guides
+## Product pages
 
-- [UAE Number Plate Holder Sizes: A Fit Guide for Dealers and Fleets](https://motto.ae/blog/uae-number-plate-holder-sizes-fit-guide): A practical UAE number plate holder size and fit guide for dealers, fleets and accessory buyers covering plate formats, vehicle recesses and approvals.
-- [Are Number Plate Frames Legal in the UAE?](https://motto.ae/blog/are-number-plate-frames-legal-uae): Are number plate frames legal in the UAE? Learn the difference between official registration plates and holders, plus visibility and fit requirements.
-- [How to Order Custom Dealer-Branded Number Plate Holders](https://motto.ae/blog/custom-dealer-branded-number-plate-holders-ordering-guide): Order custom dealer-branded number plate holders with a clear process for fit, artwork, samples, volume, packaging and UAE delivery.
-- [Number Plate Holder Manufacturer vs Reseller](https://motto.ae/blog/number-plate-holder-manufacturer-vs-reseller): Compare a number plate holder manufacturer with a reseller on tooling, samples, quality control, custom branding, lead times and total procurement risk.
-- [Foil Stamping, Pad Printing or Stickers for Plate Frames](https://motto.ae/blog/plate-frame-branding-foil-stamping-pad-printing-stickers): Compare foil stamping, pad printing and stickers for branded number plate frames by appearance, artwork, durability, quantity and approval needs.
-- [How Custom 3D Automotive Badges Are Made](https://motto.ae/blog/how-custom-3d-automotive-badges-are-made): See how custom 3D automotive badges move from vector artwork to tooling, forming, chrome-style finishes, adhesive selection, inspection and packaging.
-- [Custom Car Badges for Gulf Conditions](https://motto.ae/blog/custom-car-badges-gulf-conditions): Specify custom car badges for Gulf heat, UV, dust, washing and humidity with practical guidance on finish, adhesive, installation and validation.
-- [Dealer Handover Gifts and Branded Keychains](https://motto.ae/blog/dealer-handover-gifts-branded-keychains): Plan dealer handover gifts and branded keychains that match the vehicle, showroom experience and brand with practical specification and ordering advice.
-- [Custom Car Sunshades in the UAE](https://motto.ae/blog/custom-car-sunshades-uae): A UAE buyer's guide to custom car sunshades for dealers and fleets, covering vehicle fit, materials, print, samples, packaging and bulk orders.
-- [How Sunshades Protect Vehicle Interiors in UAE Heat](https://motto.ae/blog/car-sunshades-protect-interiors-uae-heat): Learn how windscreen sunshades help reduce direct solar exposure inside parked cars in UAE heat, what they protect and their practical limits.
-- [Custom Showroom Plates for UAE Dealers](https://motto.ae/blog/custom-showroom-plates-uae-dealers): Plan custom showroom plates for UAE car dealers, including use cases, dimensions, branding, mounting, finish, samples and the road-use distinction.
-- [Bulk Automotive Accessories Procurement Checklist](https://motto.ae/blog/bulk-automotive-accessories-procurement-checklist): A bulk automotive accessories procurement checklist for UAE dealers and fleets covering specifications, supplier checks, samples, QC, packaging and delivery.
+- [Number plate holders](https://motto.ae/products/number-plate-holders)
+- [3D automotive badges and emblems](https://motto.ae/products/3d-automotive-badges)
+- [Custom dealer keychains](https://motto.ae/products/dealer-keychains)
+- [Custom car sunshades](https://motto.ae/products/custom-car-sunshades)
+- [Showroom display plates](https://motto.ae/products/showroom-plates)
+- [White-label automotive accessories](https://motto.ae/products/white-label-automotive-accessories)
+
+## Technical library
+
+### Product and Material Deep-Dives
+
+- [Foil Stamping, Pad Printing or Stickers for Plate Frames](https://motto.ae/blog/plate-frame-branding-foil-stamping-pad-printing-stickers): Compare branding processes for number plate holders.
+- [How Custom 3D Automotive Badges Are Made](https://motto.ae/blog/how-custom-3d-automotive-badges-are-made): From vector artwork and tooling to finish, adhesive and inspection.
+- [Recycled Polymer and German Foils: What Makes a Premium Plate Holder](https://motto.ae/blog/premium-plate-holder-materials-recycled-polymer-german-foils): Material and finish decisions behind a premium plate holder.
+- [Automotive-Grade Polymers for Number Plate Holders: ABS, PP and PC/ABS](https://motto.ae/blog/automotive-grade-polymers-plate-holders-abs-pp-pc-abs): Compare ABS, polypropylene and PC/ABS for dealer number plate holders, including stiffness, impact, heat, finish and production consistency.
+- [Recycled Polymers in Automotive Accessories: How to Control Consistency](https://motto.ae/blog/recycled-polymers-automotive-accessories-consistency): A practical guide to recycled polymer consistency for automotive accessories, covering feedstock, colour, contamination, testing and change control.
+- [UV Stabilisers and Colourfastness in Exterior Automotive Plastics](https://motto.ae/blog/uv-stabilisers-colourfastness-automotive-plastics): Understand how pigments, UV stabilisers, resin grade and accelerated exposure affect colourfastness in exterior automotive accessories.
+- [Chrome-Style Automotive Badge Finishes: Bright, Satin, Dark and Painted](https://motto.ae/blog/chrome-style-automotive-badge-finishes): Compare bright chrome-style, satin, dark chrome-style and painted automotive badge finishes for appearance, cleaning and approval.
+- [Automotive Badge Adhesives: Acrylic Foam Tape vs Transfer Adhesive](https://motto.ae/blog/automotive-badge-adhesives-acrylic-foam-transfer-tape): Compare acrylic foam tape and transfer adhesive for automotive badges by surface, gap filling, thickness, installation and validation.
+- [Surface Preparation for Reliable Automotive Badge Adhesion](https://motto.ae/blog/surface-preparation-automotive-badge-adhesion): A practical badge installation guide covering surface verification, cleaning, temperature, alignment, pressure and cure time.
+- [Scratch and Abrasion Testing for Branded Automotive Accessories](https://motto.ae/blog/scratch-abrasion-testing-automotive-accessories): Plan useful scratch, rub and abrasion checks for printed, foiled, painted and plated automotive accessories without overclaiming results.
+- [Heat Ageing and Thermal Cycling for Automotive Accessories](https://motto.ae/blog/heat-ageing-thermal-cycling-automotive-accessories): Learn what heat ageing and thermal cycling can reveal about plate holders, badges, adhesives, finishes and mixed-material assemblies.
+- [How to Read Accelerated UV Weathering Test Results](https://motto.ae/blog/accelerated-uv-weathering-test-results): Read accelerated UV weathering reports correctly, including controls, exposure conditions, colour change, gloss and interpretation limits.
+- [Corrosion Testing for Metal Badges and Dealer Keychains](https://motto.ae/blog/corrosion-testing-metal-badges-keychains): Use salt spray and condensation tests responsibly for metal badges and keychains, with clear specimen, coating and acceptance rules.
+- [Foil Adhesion and Rub Resistance on Branded Plate Holders](https://motto.ae/blog/foil-adhesion-rub-resistance-plate-holders): Specify and approve foil adhesion and rub resistance on dealer-branded plate holders through samples, conditioning and repeatable checks.
+- [Car Sunshade Material Construction: Reflective Face, Core and Binding](https://motto.ae/blog/car-sunshade-material-construction): Understand reflective sunshade layers, structure, binding, printing, fold behaviour and approval for UAE dealer programmes.
+
+### Buyer and Comparison Guides
+
+- [UAE Number Plate Holder Sizes: A Fit Guide for Dealers and Fleets](https://motto.ae/blog/uae-number-plate-holder-sizes-fit-guide): A practical UAE number plate holder size and fit guide for dealers and fleets.
+- [Number Plate Holder Manufacturer vs Reseller](https://motto.ae/blog/number-plate-holder-manufacturer-vs-reseller): Compare manufacturers and resellers on tooling, samples, quality and lead time.
+- [Custom Car Sunshades in the UAE](https://motto.ae/blog/custom-car-sunshades-uae): A UAE buyer guide to custom car sunshades.
+- [Bulk Automotive Accessories Procurement Checklist](https://motto.ae/blog/bulk-automotive-accessories-procurement-checklist): A procurement checklist for specifications, samples, QC and delivery.
+- [Number Plate Holders in the UAE: A Dealer's Buying Guide](https://motto.ae/blog/number-plate-holders-uae-buyers-guide): What separates a premium dealer-grade plate holder from a basic frame.
+- [Premium vs Budget Number Plate Holders: What Dealers Actually Buy](https://motto.ae/blog/premium-vs-budget-number-plate-holders): Compare premium and budget number plate holders by fit, polymer, clips, branding, consistency, packaging and total replacement risk.
+- [OEM-Style vs Generic Aftermarket Dealer Accessories](https://motto.ae/blog/oem-style-vs-aftermarket-dealer-accessories): Compare OEM-style dealer accessories with generic aftermarket products by fit, brand control, documentation and programme risk.
+- [Injection Moulding vs 3D Printing for Automotive Accessory Prototypes](https://motto.ae/blog/injection-moulding-vs-3d-printing-automotive-prototypes): Choose between 3D printing, prototype tooling and production injection moulding for fit trials, visual samples and launch quantities.
+- [Metal vs Leather Dealer Keychains: A Handover Buyer's Guide](https://motto.ae/blog/metal-vs-leather-dealer-keychains): Compare metal and leather dealer keychains by tactile quality, branding, wear, packaging, vehicle tier and programme cost.
+- [Custom-Fit vs Universal Car Sunshades for UAE Dealer Programmes](https://motto.ae/blog/custom-fit-vs-universal-car-sunshades): Compare custom-fit and universal windscreen sunshades by coverage, vehicle matrix, cost, stock complexity and customer use.
+- [UAE Manufacturing vs Overseas Sourcing for Automotive Accessories](https://motto.ae/blog/uae-manufacturing-vs-overseas-automotive-accessories): Compare local UAE manufacturing with overseas sourcing by tooling, approvals, lead time, minimum quantities, freight and change control.
+- [How to Compare Automotive Accessory Supplier Quotes Like for Like](https://motto.ae/blog/compare-automotive-accessory-supplier-quotes): Normalise automotive accessory quotes by specification, tooling, samples, quality, packaging, freight, Incoterms and replacement support.
+
+### Dealer and B2B Use Cases
+
+- [How to Order Custom Dealer-Branded Number Plate Holders](https://motto.ae/blog/custom-dealer-branded-number-plate-holders-ordering-guide): A clear ordering process for dealer-branded plate holders.
+- [Dealer Handover Gifts and Branded Keychains](https://motto.ae/blog/dealer-handover-gifts-branded-keychains): Plan branded keychains as part of a consistent vehicle handover.
+- [Custom Showroom Plates for UAE Dealers](https://motto.ae/blog/custom-showroom-plates-uae-dealers): Plan custom display plates for UAE showrooms and launches.
+- [How to Standardise Dealer Accessories Across Multiple Branches](https://motto.ae/blog/standardise-dealer-accessories-across-branches): Create a branch-ready accessory standard using product codes, vehicle matrices, approved samples, reorder rules and installation instructions.
+- [Building a Fleet Automotive Accessory Replacement Programme](https://motto.ae/blog/fleet-automotive-accessory-replacement-programme): Plan fleet accessory replacements with condition codes, critical spares, vehicle groups, reorder levels and installation evidence.
+- [Planning Accessory Kits for a New Vehicle Launch](https://motto.ae/blog/new-vehicle-launch-accessory-kits): Plan launch-ready plate holders, badges, keychains, sunshades and showroom plates around prototypes, artwork gates and branch delivery.
+- [Wholesale and Private-Label Automotive Accessories: What Buyers Need](https://motto.ae/blog/wholesale-private-label-automotive-accessories): Structure a private-label automotive accessory programme around IP, tooling, samples, packaging, quality, territories and repeat supply.
+- [From Showroom to Handover: Keeping Dealer Branding Consistent](https://motto.ae/blog/showroom-to-handover-brand-consistency): Connect showroom plates, vehicle plate holders, keychains and sunshades through one artwork and approval system. A practical guide for UAE dealer groups.
+
+### UAE and Regional Guidance
+
+- [Are Number Plate Frames Legal in the UAE?](https://motto.ae/blog/are-number-plate-frames-legal-uae): Understand the distinction between official UAE registration plates and accessory holders.
+- [Custom Car Badges for Gulf Conditions](https://motto.ae/blog/custom-car-badges-gulf-conditions): Specify badge finish and adhesive for Gulf heat, UV and cleaning.
+- [How Sunshades Protect Vehicle Interiors in UAE Heat](https://motto.ae/blog/car-sunshades-protect-interiors-uae-heat): Understand the practical benefit and limits of windscreen sunshades.
+- [Specifying Automotive Accessories for UAE Summer Heat](https://motto.ae/blog/automotive-accessories-uae-summer-heat): Specify plate holders, badges, adhesives, keychains and sunshades for UAE summer exposure using relevant materials and validation.
+- [Coastal Humidity and Salt Exposure for UAE Vehicle Accessories](https://motto.ae/blog/coastal-humidity-salt-exposure-uae-vehicles): Manage humidity, condensation and salt exposure risks for coated badges, keychains, fasteners and mixed-material vehicle accessories.
+- [Shipping and Storing Automotive Accessories Through a GCC Summer](https://motto.ae/blog/gcc-summer-shipping-storage-automotive-accessories): Protect finished automotive accessories through GCC summer warehousing and transport with packaging, stacking and stock-rotation controls.
+- [MENA Automotive Accessory Distribution Planning for Dealers and Importers](https://motto.ae/blog/mena-automotive-accessories-distribution-planning): Plan MENA accessory distribution around vehicle mix, plate formats, languages, territories, inventory, customs and local compliance.
+
+### Manufacturing and Quality Process
+
+- [Engineered at Source: Inside MOTTO's UAE Manufacturing](https://motto.ae/blog/engineered-at-source-uae-manufacturing): How MOTTO controls automotive accessory production in the UAE.
+- [Golden Sample Approval for Automotive Accessories](https://motto.ae/blog/golden-sample-approval-automotive-accessories): Build a useful golden sample system with signed specifications, protected references, revision control and measurable acceptance criteria.
+- [Automotive Accessory Quality Control: Sampling, AQL and Traceability](https://motto.ae/blog/automotive-accessory-quality-control-aql-traceability): Design an automotive accessory QC plan using critical defects, sampling, AQL where appropriate, lot traceability and corrective action.
 
 ## Important legal distinction
 
-MOTTO Automotive manufactures accessory number plate holders and non-registration display products. It does not issue or reproduce official UAE registration plates. Official plates are issued through competent licensing authorities. Holders must not cover, obscure, distort, alter or reduce the readability of official plate data. See [Federal Decree-Law No. 14 of 2024 On Traffic Regulation](https://uaelegislation.gov.ae/en/legislations/2598) and confirm current requirements with the relevant emirate authority.
+MOTTO Automotive manufactures accessory number plate holders and non-registration showroom display products. It does not issue or reproduce official UAE registration plates. Official plates are issued by competent licensing authorities. A holder must not obscure official plate information. Reference: https://uaelegislation.gov.ae/en/legislations/2598
 
-## Company and expertise
+## Editorial and sourcing policy
 
-- [Our manufacturing story](https://motto.ae/blog/about): Manufacturing heritage since 1989 and leadership perspective from Managing Director Pavle Rastovic.
-- [UAE manufacturing](https://motto.ae/blog/engineered-at-source-uae-manufacturing): How MOTTO controls development, production, finishing, inspection and packaging.
-- [All insights](https://motto.ae/blog/)
-- [Arabic website](https://motto.ae/ar/)
+Articles are attributed to and reviewed by MOTTO Automotive. Technical and legal articles identify interpretation limits, use official UAE or standards-body sources where relevant and require final specifications to be confirmed against the current vehicle, approved sample and purchase requirements.
 
 ## Contact
 
-- Website: https://motto.ae/
 - Email: info@motto.ae
 - Phone and WhatsApp: +971 58 286 8358
 - LinkedIn: https://www.linkedin.com/company/motto_automotive/
-- Managing Director: Pavle Rastovic, https://www.linkedin.com/in/pavle-rastovic/
