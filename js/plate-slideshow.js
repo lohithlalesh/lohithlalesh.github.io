@@ -22,8 +22,10 @@
 
   function show(next) {
     index = (next + slides.length) % slides.length;
-    primeImage(slides[index]);
-    primeImage(slides[(index + 1) % slides.length]);
+    if (visible) {
+      primeImage(slides[index]);
+      primeImage(slides[(index + 1) % slides.length]);
+    }
 
     slides.forEach(function (slide, slideIndex) {
       var active = slideIndex === index;

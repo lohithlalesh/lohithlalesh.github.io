@@ -1,21 +1,21 @@
 # MOTTO Automotive
 
-> MOTTO Automotive is a UAE manufacturer of dealer-branded number plate holders and automotive accessories. The company supports dealers, fleets and mobility partners with product development, manufacturing, finishing, inspection, packaging and recurring supply.
+> MOTTO Automotive is a UAE manufacturer of custom car accessories, dealer-branded number plate holders and automotive accessories. The company supports dealers, fleets and mobility partners with product development, manufacturing, finishing, inspection, packaging and recurring supply.
 
 ## Canonical pages
 
 - [Home](https://motto.ae/)
-- [Products](https://motto.ae/products/)
+- [Custom car accessories](https://motto.ae/products/)
 - [Technical library](https://motto.ae/blog/): 45 English guides with complete Arabic counterparts.
 - [Arabic website](https://motto.ae/ar/)
 - [Company story and editorial context](https://motto.ae/blog/about)
 
 ## Product pages
 
-- [Number plate holders](https://motto.ae/products/number-plate-holders)
-- [3D automotive badges and emblems](https://motto.ae/products/3d-automotive-badges)
-- [Custom dealer keychains](https://motto.ae/products/dealer-keychains)
-- [Custom car sunshades](https://motto.ae/products/custom-car-sunshades)
+- [Custom number plate holders in Dubai and the UAE](https://motto.ae/products/number-plate-holders)
+- [Custom car badges and 3D automotive emblems](https://motto.ae/products/3d-automotive-badges)
+- [Custom metal and leather dealer keychains](https://motto.ae/products/dealer-keychains)
+- [Custom car window and windshield sun shades](https://motto.ae/products/custom-car-sunshades)
 - [Showroom display plates](https://motto.ae/products/showroom-plates)
 - [White-label automotive accessories](https://motto.ae/products/white-label-automotive-accessories)
 

@@ -4,6 +4,16 @@ Canonical website: https://motto.ae/
 Primary market: United Arab Emirates, with service across the Gulf and MENA.
 Business: UAE manufacturer of custom dealer-branded automotive accessories.
 
+## Product pages
+
+- Custom car accessories: https://motto.ae/products/
+- Custom number plate holders in Dubai and the UAE: https://motto.ae/products/number-plate-holders
+- Custom car badges and 3D automotive emblems: https://motto.ae/products/3d-automotive-badges
+- Custom metal and leather dealer keychains: https://motto.ae/products/dealer-keychains
+- Custom car window and windshield sun shades: https://motto.ae/products/custom-car-sunshades
+- Custom showroom display plates: https://motto.ae/products/showroom-plates
+- White-label and wholesale automotive accessories: https://motto.ae/products/white-label-automotive-accessories
+
 ## Trust and editorial policy
 
 The library is written for automotive dealer, fleet, procurement, marketing and vehicle-preparation teams. It uses MOTTO Automotive's manufacturing and supply experience, distinguishes recommendations from verified legal or standards information, avoids converting accelerated test hours into unsupported field-life guarantees and links to primary sources where applicable.

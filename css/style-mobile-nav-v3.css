@@ -4,6 +4,30 @@
    Palette: Arctic White, Motto Navy, Signal Blue, Titanium Grey, Premium Gold
    ========================================================================= */
 
+@font-face {
+  font-family: 'Saira Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/assets/fonts/saira-condensed-400-latin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Saira Condensed';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('/assets/fonts/saira-condensed-500-latin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Saira Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('/assets/fonts/saira-condensed-600-latin.woff2') format('woff2');
+}
+
 /* -------------------- DESIGN TOKENS -------------------- */
 :root {
   /* Brand colors - extended from Motto brand guideline */
@@ -2835,7 +2859,7 @@ button {
   font-size: 11px;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(255, 255, 255, 0.66);
 }
 
 .footer__bottom-values {

@@ -665,6 +665,36 @@ body.product-page {
   line-height: 1.75;
 }
 
+.product-search-answer {
+  padding: 54px 0 58px;
+  border-bottom: 1px solid rgba(10, 29, 58, .1);
+  background: linear-gradient(135deg, #f5f8fb 0%, #eaf1f7 100%);
+}
+
+.product-search-answer .product-shell {
+  max-width: 980px;
+}
+
+.product-search-answer h2 {
+  max-width: 860px;
+  margin: 8px 0 18px;
+  color: var(--p-navy);
+  font-family: 'Saira Condensed', sans-serif;
+  font-size: clamp(32px, 4vw, 50px);
+  font-weight: 500;
+  line-height: 1.02;
+  text-transform: uppercase;
+}
+
+.product-search-answer > .product-shell > p:last-child {
+  max-width: 900px;
+  margin: 0;
+  color: var(--p-body);
+  font-family: 'Manrope', sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+}
+
 .products-index-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -885,6 +915,19 @@ html[dir='rtl'] .product-faq details p {
 
   .products-index-hero h1 {
     font-size: clamp(48px, 16vw, 72px);
+  }
+
+  .product-search-answer {
+    padding: 38px 0 42px;
+  }
+
+  .product-search-answer h2 {
+    font-size: 34px;
+  }
+
+  .product-search-answer > .product-shell > p:last-child {
+    font-size: 15px;
+    line-height: 1.72;
   }
 
   .products-index-grid {
