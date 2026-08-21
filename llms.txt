@@ -1,5 +1,7 @@
 # MOTTO Automotive
 
+- Luxury automotive programmes: custom number plate holders and non-registration showroom plates for luxury car brands and UAE dealers. Official registration plates are issued only by the competent authority.
+
 > MOTTO Automotive is a UAE manufacturer of custom car accessories, dealer-branded number plate holders and automotive accessories. The company supports dealers, fleets and mobility partners with product development, manufacturing, finishing, inspection, packaging and recurring supply.
 
 ## Canonical pages
@@ -58,7 +60,7 @@
 
 - [How to Order Custom Dealer-Branded Number Plate Holders](https://motto.ae/blog/custom-dealer-branded-number-plate-holders-ordering-guide): A clear ordering process for dealer-branded plate holders.
 - [Dealer Handover Gifts and Branded Keychains](https://motto.ae/blog/dealer-handover-gifts-branded-keychains): Plan branded keychains as part of a consistent vehicle handover.
-- [Custom Showroom Plates for UAE Dealers](https://motto.ae/blog/custom-showroom-plates-uae-dealers): Plan custom display plates for UAE showrooms and launches.
+- [Custom Showroom Plates for UAE Luxury Car Dealers](https://motto.ae/blog/custom-showroom-plates-uae-dealers): Plan custom display plates for UAE showrooms and launches.
 - [How to Standardise Dealer Accessories Across Multiple Branches](https://motto.ae/blog/standardise-dealer-accessories-across-branches): Create a branch-ready accessory standard using product codes, vehicle matrices, approved samples, reorder rules and installation instructions.
 - [Building a Fleet Automotive Accessory Replacement Programme](https://motto.ae/blog/fleet-automotive-accessory-replacement-programme): Plan fleet accessory replacements with condition codes, critical spares, vehicle groups, reorder levels and installation evidence.
 - [Planning Accessory Kits for a New Vehicle Launch](https://motto.ae/blog/new-vehicle-launch-accessory-kits): Plan launch-ready plate holders, badges, keychains, sunshades and showroom plates around prototypes, artwork gates and branch delivery.

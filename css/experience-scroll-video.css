@@ -1,0 +1,294 @@
+/* Scroll-scrubbed manufacturing story for the homepage brand-essence section. */
+/* `hidden` on a document axis creates an ancestor scroll container and prevents
+   the story's sticky viewport from engaging. `clip` keeps horizontal spill
+   contained without changing the vertical sticky containing block. */
+html,
+body {
+  overflow-x: clip;
+}
+
+.experience.experience--scroll {
+  display: block;
+  height: 300svh;
+  min-height: 0;
+  /* Keep the tall scroll range visible so position: sticky can reference the viewport.
+     Cropping happens inside .experience__sticky instead. */
+  overflow: visible;
+  background: #050e1f;
+}
+
+.experience__sticky {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  height: 100svh;
+  min-height: 620px;
+  overflow: hidden;
+  isolation: isolate;
+  background: #050e1f;
+}
+
+.experience__video {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  background: #050e1f;
+  transform: scale(1.015);
+}
+
+.experience__veil {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  pointer-events: none;
+  background:
+    linear-gradient(90deg, rgba(3, 10, 24, .92) 0%, rgba(3, 10, 24, .58) 34%, rgba(3, 10, 24, .13) 63%, rgba(3, 10, 24, .45) 100%),
+    linear-gradient(180deg, rgba(3, 10, 24, .18) 0%, rgba(3, 10, 24, .08) 52%, rgba(3, 10, 24, .9) 100%);
+}
+
+.experience__grain {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  opacity: .15;
+  pointer-events: none;
+  background-image:
+    linear-gradient(rgba(255, 255, 255, .025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, .025) 1px, transparent 1px);
+  background-size: 64px 64px;
+  mask-image: linear-gradient(90deg, #000, transparent 78%);
+}
+
+.experience--scroll .experience__content {
+  position: absolute;
+  top: 14%;
+  left: clamp(28px, 7vw, 116px);
+  z-index: 3;
+  width: min(620px, 46vw);
+  max-width: none;
+  padding: 0;
+  text-align: left;
+}
+
+.experience__micro {
+  margin: 0 0 18px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .28em;
+  text-transform: uppercase;
+  color: #d4ad5b;
+}
+
+.experience--scroll .experience__quote {
+  margin: 0;
+  font-size: clamp(42px, 5vw, 78px);
+  line-height: .98;
+  text-shadow: 0 12px 38px rgba(0, 0, 0, .4);
+}
+
+.experience--scroll .experience__attr {
+  margin-top: 22px;
+}
+
+.experience__steps {
+  position: absolute;
+  right: clamp(28px, 6vw, 94px);
+  bottom: clamp(52px, 8vh, 90px);
+  z-index: 4;
+  display: grid;
+  gap: 13px;
+  width: min(280px, 28vw);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.experience__steps li {
+  display: grid;
+  grid-template-columns: 34px 1fr;
+  align-items: center;
+  gap: 12px;
+  padding: 11px 14px;
+  border-left: 1px solid rgba(255, 255, 255, .2);
+  color: rgba(255, 255, 255, .48);
+  background: rgba(5, 14, 31, .18);
+  backdrop-filter: blur(5px);
+  transition: color .25s ease, border-color .25s ease, background .25s ease, transform .25s ease;
+}
+
+.experience__steps li.is-active {
+  border-color: #d4ad5b;
+  color: #fff;
+  background: rgba(5, 14, 31, .62);
+  transform: translateX(-6px);
+}
+
+.experience__steps span {
+  font-family: var(--font-display);
+  font-size: 20px;
+  color: #d4ad5b;
+}
+
+.experience__steps strong {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: .19em;
+  text-transform: uppercase;
+}
+
+.experience__progress {
+  position: absolute;
+  left: clamp(28px, 7vw, 116px);
+  right: clamp(28px, 6vw, 94px);
+  bottom: 26px;
+  z-index: 5;
+  height: 1px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, .2);
+}
+
+.experience__progress::after {
+  content: '';
+  display: block;
+  width: calc(var(--experience-progress, 0) * 100%);
+  height: 100%;
+  background: #d4ad5b;
+  box-shadow: 0 0 14px rgba(212, 173, 91, .65);
+}
+
+[dir='rtl'] .experience--scroll .experience__content {
+  right: clamp(28px, 7vw, 116px);
+  left: auto;
+  text-align: right;
+}
+
+[dir='rtl'] .experience__steps {
+  right: auto;
+  left: clamp(28px, 6vw, 94px);
+}
+
+[dir='rtl'] .experience__steps li {
+  grid-template-columns: 1fr 34px;
+  border-right: 1px solid rgba(255, 255, 255, .2);
+  border-left: 0;
+}
+
+[dir='rtl'] .experience__steps li.is-active {
+  border-right-color: #d4ad5b;
+  transform: translateX(6px);
+}
+
+@media (max-width: 760px) {
+  .experience.experience--scroll {
+    height: 270svh;
+  }
+
+  .experience__sticky {
+    min-height: 560px;
+  }
+
+  .experience__video {
+    object-position: center;
+  }
+
+  .experience__veil {
+    background:
+      linear-gradient(180deg, rgba(3, 10, 24, .68) 0%, rgba(3, 10, 24, .1) 43%, rgba(3, 10, 24, .92) 100%),
+      linear-gradient(90deg, rgba(3, 10, 24, .36), transparent 70%);
+  }
+
+  .experience--scroll .experience__content,
+  [dir='rtl'] .experience--scroll .experience__content {
+    top: clamp(92px, 13vh, 126px);
+    right: 24px;
+    left: 24px;
+    width: auto;
+  }
+
+  .experience__micro {
+    margin-bottom: 12px;
+    font-size: 9px;
+    letter-spacing: .23em;
+  }
+
+  .experience--scroll .experience__quote {
+    max-width: 9.5em;
+    font-size: clamp(35px, 11vw, 54px);
+  }
+
+  .experience--scroll .experience__attr {
+    margin-top: 15px;
+    font-size: 9px;
+    letter-spacing: .2em;
+  }
+
+  .experience__steps,
+  [dir='rtl'] .experience__steps {
+    right: 20px;
+    bottom: 92px;
+    left: 20px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    width: auto;
+  }
+
+  .experience__steps li,
+  [dir='rtl'] .experience__steps li {
+    display: block;
+    min-width: 0;
+    padding: 9px 7px;
+    border-right: 0;
+    border-bottom: 1px solid rgba(255, 255, 255, .2);
+    border-left: 0;
+    text-align: center;
+  }
+
+  .experience__steps li.is-active,
+  [dir='rtl'] .experience__steps li.is-active {
+    border-right-color: transparent;
+    border-bottom-color: #d4ad5b;
+    transform: translateY(-4px);
+  }
+
+  .experience__steps span {
+    display: block;
+    margin-bottom: 2px;
+    font-size: 16px;
+  }
+
+  .experience__steps strong {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 2.5em;
+    font-size: 7px;
+    line-height: 1.25;
+    letter-spacing: .1em;
+    white-space: normal;
+  }
+
+  .experience__progress {
+    right: 20px;
+    bottom: 64px;
+    left: 20px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .experience.experience--scroll {
+    height: 100svh;
+  }
+
+  .experience__steps,
+  .experience__progress {
+    display: none;
+  }
+
+  .experience__video {
+    transform: none;
+  }
+}

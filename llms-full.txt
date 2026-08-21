@@ -1,5 +1,7 @@
 # MOTTO Automotive full technical library
 
+- Luxury automotive programmes: custom number plate holders and non-registration showroom plates for luxury car brands and UAE dealers. Official registration plates are issued only by the competent authority.
+
 Canonical website: https://motto.ae/
 Primary market: United Arab Emirates, with service across the Gulf and MENA.
 Business: UAE manufacturer of custom dealer-branded automotive accessories.
@@ -281,7 +283,7 @@ An official UAE registration plate is issued by a competent licensing authority.
 - Scope: Plan branded keychains as part of a consistent vehicle handover.
 - Author and reviewer: MOTTO Automotive, with technical review by the manufacturing team.
 
-### Custom Showroom Plates for UAE Dealers
+### Custom Showroom Plates for UAE Luxury Car Dealers
 
 - URL: https://motto.ae/blog/custom-showroom-plates-uae-dealers
 - Arabic: https://motto.ae/ar/blog/custom-showroom-plates-uae-dealers

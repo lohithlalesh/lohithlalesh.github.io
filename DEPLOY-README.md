@@ -109,7 +109,7 @@ Twelve original educational articles were added for UAE dealers, fleets, procure
 8. Dealer Handover Gifts and Branded Keychains
 9. Custom Car Sunshades in the UAE
 10. How Sunshades Protect Vehicle Interiors in UAE Heat
-11. Custom Showroom Plates for UAE Dealers
+11. Custom Showroom Plates for UAE Luxury Car Dealers
 12. Bulk Automotive Accessories Procurement Checklist
 
 Each new article includes:
