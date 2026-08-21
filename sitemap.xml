@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://motto.ae/</loc>
     <lastmod>2026-08-21</lastmod>
@@ -10,6 +10,13 @@
       <image:loc>https://motto.ae/assets/motto-automotive-uae-link-preview-light.jpg</image:loc>
       <image:title>MOTTO Automotive, UAE automotive accessories manufacturer</image:title>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://motto.ae/assets/video/custom-number-plate-holder-manufacturing-poster.jpg</video:thumbnail_loc>
+      <video:title>How a Custom Number Plate Holder Is Engineered and Installed</video:title>
+      <video:description>A 3D engineering sequence showing custom dealer number plate holder development, finish and installation on a luxury vehicle.</video:description>
+      <video:content_loc>https://motto.ae/assets/video/custom-number-plate-holder-manufacturing-installation-uae.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
   </url>
   <url>
     <loc>https://motto.ae/ar/</loc>
@@ -17,6 +24,13 @@
     <xhtml:link rel="alternate" hreflang="en-AE" href="https://motto.ae/" />
     <xhtml:link rel="alternate" hreflang="ar-AE" href="https://motto.ae/ar/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://motto.ae/" />
+    <video:video>
+      <video:thumbnail_loc>https://motto.ae/assets/video/custom-number-plate-holder-manufacturing-poster.jpg</video:thumbnail_loc>
+      <video:title>هندسة وتصنيع وتركيب حامل لوحة أرقام مخصص</video:title>
+      <video:description>مشهد هندسي ثلاثي الأبعاد يوضح تطوير حامل لوحة أرقام مخصص وتشطيبه وتركيبه على سيارة فاخرة.</video:description>
+      <video:content_loc>https://motto.ae/assets/video/custom-number-plate-holder-manufacturing-installation-uae.mp4</video:content_loc>
+      <video:duration>10</video:duration>
+    </video:video>
   </url>
   <url>
     <loc>https://motto.ae/blog/</loc>
