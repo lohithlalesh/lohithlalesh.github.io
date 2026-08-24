@@ -81,7 +81,7 @@
             loadVideo();
             loader.disconnect();
           }
-        }, { rootMargin: '100% 0px' });
+        }, { rootMargin: '50% 0px' });
         loader.observe(section);
       } else {
         loadVideo();
