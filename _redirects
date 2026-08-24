@@ -1,11 +1,13 @@
 /index.php  /  301
 /privacy  /  301
 /privacy/  /  301
-/blog/about.html  /blog/about  301
+/blog/about.html  /about/  301
+/blog/about  /about/  301
+/ar/blog/about.html  /ar/about/  301
+/ar/blog/about  /ar/about/  301
 /blog/number-plate-holders-uae-buyers-guide.html  /blog/number-plate-holders-uae-buyers-guide  301
 /blog/engineered-at-source-uae-manufacturing.html  /blog/engineered-at-source-uae-manufacturing  301
 /blog/premium-plate-holder-materials-recycled-polymer-german-foils.html  /blog/premium-plate-holder-materials-recycled-polymer-german-foils  301
-/ar/blog/about.html  /ar/blog/about  301
 /ar/blog/number-plate-holders-uae-buyers-guide.html  /ar/blog/number-plate-holders-uae-buyers-guide  301
 /ar/blog/engineered-at-source-uae-manufacturing.html  /ar/blog/engineered-at-source-uae-manufacturing  301
 /ar/blog/premium-plate-holder-materials-recycled-polymer-german-foils.html  /ar/blog/premium-plate-holder-materials-recycled-polymer-german-foils  301

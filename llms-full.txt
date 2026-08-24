@@ -10,9 +10,17 @@ Business: UAE manufacturer of custom dealer-branded automotive accessories.
 
 - UAE automotive accessories manufacturing: https://motto.ae/manufacturing/
 - Arabic manufacturing page: https://motto.ae/ar/manufacturing/
-- Company story and editorial context: https://motto.ae/blog/about
+- Company story and editorial context: https://motto.ae/about/
 - Contact MOTTO Automotive in Dubai, UAE: https://motto.ae/contact/
 - Arabic contact page: https://motto.ae/ar/contact/
+
+## Technical library category pages
+
+- [Product and Material Deep-Dives](https://motto.ae/blog/category/product-materials/) | [Arabic](https://motto.ae/ar/blog/category/product-materials/)
+- [Buyer and Comparison Guides](https://motto.ae/blog/category/buyer-comparison-guides/) | [Arabic](https://motto.ae/ar/blog/category/buyer-comparison-guides/)
+- [Dealer and B2B Use Cases](https://motto.ae/blog/category/dealer-b2b-use-cases/) | [Arabic](https://motto.ae/ar/blog/category/dealer-b2b-use-cases/)
+- [UAE and Regional Guidance](https://motto.ae/blog/category/uae-regional-guidance/) | [Arabic](https://motto.ae/ar/blog/category/uae-regional-guidance/)
+- [Manufacturing and Quality Process](https://motto.ae/blog/category/manufacturing-quality-process/) | [Arabic](https://motto.ae/ar/blog/category/manufacturing-quality-process/)
 
 ## Product pages
 
