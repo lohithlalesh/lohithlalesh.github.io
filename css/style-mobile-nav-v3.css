@@ -3510,7 +3510,7 @@ body.is-locked {
 
 /* Critical search-visible homepage heading. Kept in the loaded site stylesheet so it uses the MOTTO display face. */
 .hero__seo-title {
-  max-width: 17ch;
+  max-width: min(34ch, 72vw);
   margin: 14px 0 16px;
   color: var(--ink);
   font-family: var(--font-display);
