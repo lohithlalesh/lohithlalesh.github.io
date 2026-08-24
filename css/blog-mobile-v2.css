@@ -155,6 +155,8 @@
 .article-summary span,.blog-intro>span{display:block;margin-bottom:8px;font-family:'Manrope',sans-serif;font-size:11px;font-weight:700;letter-spacing:.18em;text-transform:uppercase;color:#9b7835;}
 .article-summary p{margin:0;font-size:16px;line-height:1.7;}
 .article-intro{font-size:18px;color:var(--b-ink);}
+.article-body-product-link{margin:12px 0 26px;font-family:'Manrope',sans-serif;font-size:14px;line-height:1.7;color:var(--b-muted);}
+.article-body-product-link a{font-weight:700;color:#0a4f89;text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px;}
 .article-toc{margin:0 0 30px;padding:22px 24px;border-radius:10px;background:var(--b-soft);border:1px solid var(--b-line);font-family:'Manrope',sans-serif;}
 .article-toc strong{display:block;margin-bottom:10px;color:var(--b-navy);font-size:13px;letter-spacing:.08em;text-transform:uppercase;}
 .article-toc ol{columns:2;column-gap:32px;margin:0;padding-left:20px;}
