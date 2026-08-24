@@ -222,6 +222,9 @@
   }
 
   function initAllMarquees() {
+    /* The homepage uses its dedicated requestAnimationFrame marquee driver.
+       Avoid running this image-measurement path there as well. */
+    if (document.body?.dataset.homepageMarquee === 'manual') return;
     document.querySelectorAll('.clients__track, .brands-marquee__track').forEach(initSeamlessMarquee);
   }
 
