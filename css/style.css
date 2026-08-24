@@ -3432,3 +3432,25 @@ body.is-locked {
     padding-top: calc(var(--header-h) + 28px);
   }
 }
+
+/* Search-visible hero heading, separate from the decorative brand lockup. */
+.hero__seo-title {
+  max-width: 17ch;
+  margin: 14px 0 16px;
+  color: var(--ink);
+  font-family: var(--font-display);
+  font-size: clamp(32px, 3.4vw, 50px);
+  font-weight: 500;
+  letter-spacing: -.02em;
+  line-height: 1.02;
+  text-transform: uppercase;
+}
+
+@media (max-width: 700px) {
+  .hero__seo-title {
+    max-width: 20ch;
+    margin-block: 10px 12px;
+    font-size: clamp(29px, 8.6vw, 38px);
+    line-height: 1.06;
+  }
+}

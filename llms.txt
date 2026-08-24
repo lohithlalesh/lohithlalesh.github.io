@@ -8,9 +8,13 @@
 
 - [Home](https://motto.ae/)
 - [Custom car accessories](https://motto.ae/products/)
+- [UAE automotive accessories manufacturing](https://motto.ae/manufacturing/): how MOTTO moves from an approved brief and production-intent sample through materials, finishing, inspection, packaging and repeat supply.
 - [Technical library](https://motto.ae/blog/): 45 English guides with complete Arabic counterparts.
 - [Arabic website](https://motto.ae/ar/)
+- [Arabic manufacturing page](https://motto.ae/ar/manufacturing/)
 - [Company story and editorial context](https://motto.ae/blog/about)
+- [Contact MOTTO Automotive](https://motto.ae/contact/): Dubai, UAE phone, WhatsApp and email details for commercial enquiries.
+- [Arabic contact page](https://motto.ae/ar/contact/)
 
 ## Product pages
 
@@ -93,6 +97,7 @@ Articles are attributed to MOTTO Automotive and link to the company story and ed
 
 ## Contact
 
+- Contact page: https://motto.ae/contact/
 - Email: info@motto.ae
 - Phone and WhatsApp: +971 58 286 8358
 - LinkedIn: https://www.linkedin.com/company/motto_automotive/

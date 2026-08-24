@@ -6,6 +6,14 @@ Canonical website: https://motto.ae/
 Primary market: United Arab Emirates, with service across the Gulf and MENA.
 Business: UAE manufacturer of custom dealer-branded automotive accessories.
 
+## Company pages
+
+- UAE automotive accessories manufacturing: https://motto.ae/manufacturing/
+- Arabic manufacturing page: https://motto.ae/ar/manufacturing/
+- Company story and editorial context: https://motto.ae/blog/about
+- Contact MOTTO Automotive in Dubai, UAE: https://motto.ae/contact/
+- Arabic contact page: https://motto.ae/ar/contact/
+
 ## Product pages
 
 - Custom car accessories: https://motto.ae/products/
@@ -430,7 +438,8 @@ An official UAE registration plate is issued by a competent licensing authority.
 
 ## Source framework
 
-- MOTTO Automotive, product and manufacturing capability pages: https://motto.ae/products/
+- MOTTO Automotive, manufacturing capability page: https://motto.ae/manufacturing/
+- MOTTO Automotive, product collection: https://motto.ae/products/
 - ISO 4892-1:2024, Plastics, methods of exposure to laboratory light sources, general guidance: https://www.iso.org/standard/83801.html
 - ISO 4892-2:2013, Plastics, methods of exposure to laboratory light sources, xenon-arc lamps: https://www.iso.org/cms/%20render/live/en/sites/isoorg/contents/data/standard/05/54/55481.html
 - ISO 9227:2022, Corrosion tests in artificial atmospheres, salt spray tests: https://www.iso.org/cms/live/live/en/sites/isoorg/contents/data/standard/08/17/81744.html?browse=tc
@@ -442,4 +451,4 @@ An official UAE registration plate is issued by a competent licensing authority.
 
 ## Contact
 
-MOTTO Automotive. Website: https://motto.ae/. Email: info@motto.ae. Phone and WhatsApp: +971 58 286 8358.
+MOTTO Automotive. Contact page: https://motto.ae/contact/. Website: https://motto.ae/. Email: info@motto.ae. Phone and WhatsApp: +971 58 286 8358. Location: Dubai, United Arab Emirates.
