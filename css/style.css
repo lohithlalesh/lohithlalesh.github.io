@@ -3427,7 +3427,7 @@ body.is-locked {
       rgba(245, 246, 247, 0.72) 70%,
       rgba(245, 246, 247, 0.55) 100%);
   }
-  /* Raise the "Dubai · UAE" line */
+  /* Raise the "UAE · UAE" line */
   .hero__panel--content {
     padding-top: calc(var(--header-h) + 28px);
   }

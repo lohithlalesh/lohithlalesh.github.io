@@ -21,7 +21,7 @@ Deployment package prepared on 17 August 2026.
 - Added visible manufacturing and editorial notes based on MOTTO Automotive's first-party experience.
 - Updated homepage cards, navigation, footer links, sitemap, `llms.txt` and `llms-full.txt` to point to the new landing pages.
 - Updated the About page introduction to identify Pavle Rastovic as Managing Director.
-- Added a dedicated mobile crop for Pavle Rastovic's leadership image so his portrait and the Dubai skyline remain visible on narrow screens.
+- Added a dedicated mobile crop for Pavle Rastovic's leadership image so his portrait and the UAE skyline remain visible on narrow screens.
 - Removed the empty leading space from Partnerships in Motion and deferred offscreen LinkedIn embeds to reduce initial third-party work.
 - Added explicit dimensions and alternative text checks for every image used across all 40 HTML pages.
 - Replaced the shared navigation emblem with a 104 by 104 pixel AVIF asset, reducing that request from about 47 KB to about 6 KB.
@@ -108,7 +108,7 @@ Twelve original educational articles were added for UAE dealers, fleets, procure
 7. Custom Car Badges for Gulf Conditions
 8. Dealer Handover Gifts and Branded Keychains
 9. Custom Car Sunshades in the UAE
-10. How Sunshades Protect Vehicle Interiors in UAE Heat
+10. How Sunshades Protect Vehicle Interiors in the UAE Heat
 11. Custom Showroom Plates for UAE Luxury Car Dealers
 12. Bulk Automotive Accessories Procurement Checklist
 
